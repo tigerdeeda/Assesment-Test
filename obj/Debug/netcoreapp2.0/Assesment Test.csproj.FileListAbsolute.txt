@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\Assesment Test\bin\Debug\netcoreapp2.0\Assesment Test.deps.json
+C:\Users\DELL\Desktop\Assesment Test\bin\Debug\netcoreapp2.0\Assesment Test.runtimeconfig.json
+C:\Users\DELL\Desktop\Assesment Test\bin\Debug\netcoreapp2.0\Assesment Test.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Assesment Test\bin\Debug\netcoreapp2.0\Assesment Test.dll
+C:\Users\DELL\Desktop\Assesment Test\bin\Debug\netcoreapp2.0\Assesment Test.pdb
+C:\Users\DELL\Desktop\Assesment Test\obj\Debug\netcoreapp2.0\Assesment Test.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Assesment Test\obj\Debug\netcoreapp2.0\Assesment Test.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Assesment Test\obj\Debug\netcoreapp2.0\Assesment Test.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Assesment Test\obj\Debug\netcoreapp2.0\Assesment Test.dll
+C:\Users\DELL\Desktop\Assesment Test\obj\Debug\netcoreapp2.0\Assesment Test.pdb
